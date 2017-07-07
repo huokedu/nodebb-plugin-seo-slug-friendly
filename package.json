@@ -1,0 +1,30 @@
+{
+  "name": "nodebb-plugin-seo-slug-friendly",
+  "version": "0.0.1",
+  "description": "slugify category, topic, post, user slug for SEO",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyquocnam/nodebb-plugin-seo-slug-friendly.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "vietnamese",
+    "slugify",
+    "seo",
+    "friendly",
+    "russian",
+    "chinese",
+    "slug"
+  ],
+  "author": {
+    "name": "Ly Nam",
+    "email": "lyquocnam@live.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "nbbpm": {
+    "compatibility": "^0.7.0 || ^0.8.0 || ^0.9.0 || ^1.0.0"
+  }
+}
